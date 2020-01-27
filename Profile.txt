@@ -1,5 +1,5 @@
 Name:Anish
-Course: Epam Pre-educatiom Program.
+Course:Epam Pre-educatiom Program.
 Tasks done:
 1.Created account on GitHub.
 2.Installed Git on my local machine.
