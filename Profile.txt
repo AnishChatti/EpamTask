@@ -1,2 +1,7 @@
 Name:Anish
 Course:Computer science
+Tasks done:
+1.Created account on GitHub.
+2.Installed Git on my local machine.
+3.Created a repository using git commands.
+4.Added files to the existing repository and pushed Changes to Remote server.
